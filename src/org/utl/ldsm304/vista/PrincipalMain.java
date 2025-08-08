@@ -90,15 +90,17 @@ public class PrincipalMain {
             {"orden", "universo", "santo"}
         };
 
-        /*switch (op) {
+        switch (op) {
             case 1 -> ce2.mostrarEmpiezanConO(cadenas);
             case 2 -> ce2.mostrarConCincoVocales(cadenas);
             case 3 -> ce2.mostrarConSilabaSa(cadenas);
             default -> System.out.println("Opción inválida");
-        }*/
+        
     }
 
 
     
     
+}
+
 }
